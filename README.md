@@ -1,21 +1,26 @@
- 
-<div align="center">
+ <div align="center">
 
-# Hey, I'm Avirup Kundu 👋
+# Hey, I'm AVIRUP KUNDU 👋
 
-### Frontend Developer | CSE Student | Creative Problem Solver
+### Frontend Developer · CSE Student · Creative Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Crafting+Beautiful+Web+Experiences;Frontend+Development+Enthusiast;Turning+Ideas+Into+Reality;Learning.+Building.+Creating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=65&cursor=true&cursorStyle=bar&lines=Designing+Clean+User+Interfaces;Building+Interactive+Web+Experiences;Turning+Ideas+Into+Real+Products;Exploring+Modern+Frontend+Technologies;Always+Learning.+Always+Building." alt="Animated introduction"/>
 
-<p>
+<br/>
+
 <a href="https://github.com/avirupkundu246-droid">
-<img src="https://img.shields.io/badge/GitHub-Avirup Kundu-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Frontend%20Development-238636?style=for-the-badge"/>
-<img src="https://img.shields.io/badge-Hack2Skill-TOP%2010-FFD700?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Frontend-Developer-58A6FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hack2Skill-Top_10_of_151-FFD700?style=for-the-badge&labelColor=161B22"/>
+
+<br/><br/>
+
+*Creating digital experiences, one project at a time.*
 
 </div>
+
+---
 
 ---
 
