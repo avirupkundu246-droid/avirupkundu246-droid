@@ -9,7 +9,7 @@
 
 <p>
 <a href="https://github.com/avirupkundu246-droid">
-<img src="https://img.shields.io/badge/GitHub-p2480240--cmd-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Avirup Kundu-181717?style=for-the-badge&logo=github"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Frontend%20Development-238636?style=for-the-badge"/>
 <img src="https://img.shields.io/badge-Hack2Skill-TOP%2010-FFD700?style=for-the-badge"/>
