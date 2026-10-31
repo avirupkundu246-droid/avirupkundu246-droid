@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Crafting+Beautiful+Web+Experiences;Frontend+Development+Enthusiast;Turning+Ideas+Into+Reality;Learning.+Building.+Creating." />
 
 <p>
-<a href="https://github.com/p2480240-cmd">
+<a href="https://github.com/avirupkundu246-droid">
 <img src="https://img.shields.io/badge/GitHub-p2480240--cmd-181717?style=for-the-badge&logo=github"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Frontend%20Development-238636?style=for-the-badge"/>
